@@ -28,7 +28,7 @@ const perguntas = [
     opcoes: ["5", "7", "9", "8"],
 
     resposta: "8",
-  },
+  }
 ];
 
 function Quiz() {

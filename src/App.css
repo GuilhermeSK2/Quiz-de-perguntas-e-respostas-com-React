@@ -58,3 +58,15 @@ body {
   border: 1px solid white;
   cursor: pointer;
 }
+
+.content button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: #b81515;
+  border: 3px solid white;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+}
